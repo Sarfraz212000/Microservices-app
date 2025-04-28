@@ -1,0 +1,5 @@
+spring.application.name=GREET-API
+
+server.port=8081
+
+management.endpoints.web.exposure.include=*

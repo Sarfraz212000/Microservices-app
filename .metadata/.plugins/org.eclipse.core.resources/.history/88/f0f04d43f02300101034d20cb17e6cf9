@@ -1,0 +1,5 @@
+package in.saffu.feignclientdemo;
+
+public interface WelcomeFeginClient {
+
+}

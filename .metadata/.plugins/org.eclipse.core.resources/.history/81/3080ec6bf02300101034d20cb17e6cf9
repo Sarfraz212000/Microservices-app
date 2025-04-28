@@ -1,0 +1,10 @@
+package in.saffu.feignclientdemo;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value = "WELCOME-API")
+public interface WelcomeFeginClient {
+	
+	private String invokeWelcomeApi();
+
+}
