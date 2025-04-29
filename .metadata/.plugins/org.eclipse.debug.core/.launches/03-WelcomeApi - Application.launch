@@ -15,7 +15,7 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="in.saffu.Application"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="03-WelcomeApi"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenSourcePathProvider"/>
-    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dserver.port=9092"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dserver.port=9091"/>
     <stringAttribute key="process_factory_id" value="org.springframework.ide.eclipse.boot.launch.process.BootProcessFactory"/>
     <booleanAttribute key="spring.boot.ansi.console" value="true"/>
     <stringAttribute key="spring.boot.app.properties" value=""/>
